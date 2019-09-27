@@ -1,5 +1,5 @@
 # ESP32_AzureIoT
-This program incoporates the ESP32 microcontroller and its Bluetooth and Wi-Fi abilities to create
+This project incoporates the ESP32 microcontroller and its Bluetooth and Wi-Fi abilities to create
 an IoT device capabable of sending telemetry to an Azure IoT Hub.
 
 # Protocols Used
